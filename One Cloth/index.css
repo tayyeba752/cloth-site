@@ -1,0 +1,156 @@
+#BGImg {
+  /* background-image: url("./images/llll.jpg");  */
+  background-repeat: no-repeat;
+  background-size: 1400px;
+  background-position: center;
+  height: 870px;
+  width: 1350px;
+  display: inline-block;
+}
+#BGimgServices{
+  background-image: url("./images/abcbcb.jpg");
+  background-size: 1410px; 
+  height: 700px;
+  width: 1350px;
+  background-repeat: no-repeat;
+  padding-top: 1px;
+  /* opacity: 65% ; */
+}
+#nav {
+  background-color: rgb(0, 0, 0);
+  opacity: 67%;
+  padding-top: 40px;
+  margin-bottom: 1px;
+  height: 900px;
+}
+#navLogin{
+      background-color: rgb(0, 0, 0);
+  opacity: 67%;
+  padding-top: 40px;
+  margin-bottom: 100px;
+  height: 144px;
+}
+#navService{
+  background-color: rgb(0, 0, 0);
+opacity: 67%;
+padding-top: 40px;
+/* margin-bottom: 100px; */
+height: 144px;
+}
+a {
+  text-decoration: none;
+}
+#img1 {
+  height: 140px;
+  margin-right: 30px;
+}
+/* #img1:hover{
+    height: 180px;
+} */
+#img1LoginLogo{
+    height: 104px;
+    opacity: 100%;
+    margin-right: 30px;
+}
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-height: 100%;
+  min-width: 1350px;
+}
+.video-container {
+  position: relative;
+}
+.video-heading01 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  padding-bottom: 30%;
+  color: rgb(255, 255, 255);
+  font-size: 5em;
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+}
+.video-heading02 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  padding-bottom: 18%;
+  color: rgb(255, 255, 255);
+  font-size: 4em;
+  font-family: cursive;
+  font-weight: bolder;
+  font-family: "Times New Roman", Times, serif;
+}
+.video-button03{
+    position: absolute;
+    top: 44%;
+    left: 42%;
+    z-index: 2;
+    background-color: transparent;
+    color: white;
+    height: 40px;
+    width: 230px;
+    border: 2px solid white;
+    border-radius: 12px;
+  }
+  .video-button03:hover{
+    color: black;
+    background-color: bisque;
+    box-shadow: 0 0 2px 1px white;
+    border-color: transparent;
+  }
+.LoginBtn{
+    color: White;
+    background-color: transparent;
+    margin-left: 40%;
+}
+.LoginBtn:hover{
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    height: 30px; 
+    width: 80px;
+    border-radius: 10px;
+    box-shadow: auto white;
+    font-weight: bolder;
+    border-color: rgb(255, 255, 255);
+}
+.SignUpBtn{
+    color: aliceblue;
+    background-color: transparent;
+}
+.SignUpBtn:hover{ 
+    font-weight: bolder;
+    background-color: transparent;
+    color: rgb(255, 255, 255);
+    height: 30px; 
+    width: 80px;
+    border-radius: 10px;
+    box-shadow: auto white;
+    border-color: rgb(255, 255, 255);
+}
+#paragraph{
+    color: white;
+    /* padding-bottom: 20%; */
+    margin-left: 20px;
+}
+.image-container {
+  display: inline-block;
+  margin-right: 10px;
+  text-align: center;
+}
+#imgTag{
+  height: 370px;
+  padding-top: 10%;
+
+}
+#imgTag:hover{
+  height: 355px;
+  box-shadow: 2px 4px 40px black;
+  /* border-width: 100px; */
+}
